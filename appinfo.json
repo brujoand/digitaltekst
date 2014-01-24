@@ -1,10 +1,10 @@
 {
-  "uuid": "0c4019a6-51f8-499d-ab25-239b4b8cb7f3",
-  "shortName": "Nortid",
-  "longName": "Nortid",
+  "uuid": "1b855124-f194-4af7-a1fa-2b1fabcf3bcc",
+  "shortName": "Digitaltekst",
+  "longName": "Digitaltekst",
   "companyName": "Tindheim IT",
-  "versionCode": 3,
-  "versionLabel": "2.0.0",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
   "watchapp": {
     "watchface": true
   },
